@@ -25,9 +25,6 @@
 }
 
 .nav__btn:last-child .nav__notification {
-    width: 6px;
-    height: 6px;
-    border-radius: 3px;
     left: 35px;
     bottom: 30px;
 }
